@@ -172,12 +172,6 @@ suggestions as a PR or an issue directly to any of the projects repos.
 Remember to read the [Code of Conduct](./CONDUCT) and the license information
 of each project, which in general use the MIT license, except the WordPress plugin (GPL v2).
 
-## Open Source contributors 🔥
-
-[<img src="https://avatars3.githubusercontent.com/u/691521?s=460&u=ceab22655f55101b66f8e79ed08007e2f8034f34&v=4" width="117">](https://github.com/rwngallego) | [<img src="https://avatars.githubusercontent.com/u/26635356?s=460&v=4" width="117">](https://github.com/MocioF) |
-:---: | :---: |
-[Rowinson Gallego](https://github.com/rwngallego) | [MocioF](https://github.com/MocioF) |
-
 ## Special Thanks
 
 [<img alt="Jetbrains" src="https://github.com/perfectyorg/perfecty-push-wp/raw/master/.github/assets/jetbrains-logo.svg" width="120">](https://www.jetbrains.com/?from=PerfectyPush)
